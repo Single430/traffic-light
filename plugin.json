@@ -1,0 +1,13 @@
+{
+  "id": "traffic-light",
+  "name": "Traffic Light Status",
+  "version": "1.0.0",
+  "description": "Desktop traffic light showing agent activity at a glance: yellow = an agent is working, green = all idle, blinking red = an agent needs you. Processes start/stop together with QwenPaw.",
+  "author": "Jgogo",
+  "entry_point": "plugin.py",
+  "dependencies": [],
+  "min_version": "0.1.0",
+  "meta": {
+    "github": "https://github.com/Single430"
+  }
+}
